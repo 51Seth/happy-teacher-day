@@ -1,0 +1,22 @@
+html{
+    text-align:center
+  }
+  h1{
+    color:#C2185B
+  }
+  h2{
+    color:#AA00FF;
+    font-size:30px
+  }
+  h3{
+    color:#EA80FC;
+    font-size:30px
+  }
+  img{
+    width:500px;
+    height:500px;
+    margin:20px
+  }
+  body{
+    background-color:#FFFF00;
+  }
